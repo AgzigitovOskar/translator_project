@@ -1,4 +1,4 @@
-Веб-прилодение "Переводчик" на Python Django
+Веб-приложение "Переводчик" на Python Django
 
 translator_project
 
